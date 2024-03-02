@@ -1,9 +1,7 @@
 - 👋 Hi, I’m WangHaoran
 - 👀 I’m interested in Multi-Modal in Remote Sensing
 - 📫 How to reach me:wanghaoran23@mails.ucas.ac.cn
-- ⚡ Fun fact: ...
-
-<!---
-CangLingHR/CangLingHR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ I’m a data contest enthusiast.
+  I once won the TOP2 in the RSIPAC 2022 Remote Sensing Semantic Segmentation Track.
+  I once won the TOP3 in the Tianzhi Cup Visible Light Building Change Detection Track
+  I once won the TOP2 in the RSIPAC 2023 Remote Sensing Innovative Application Track
